@@ -5,12 +5,12 @@
 
 **Meu nome é Hall** e sou um **Estudante de Redes de Computadores** Interessado em Programação e CyberSecurity. Estou construindo minha base técnica através de projetos práticos e estudos constantes, buscando integrar conhecimento teórico com aplicações reais.
 
-![Coding](https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif)
+![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1reDBjOTUyeTRreHBnOXo5a25zN2Vmdmt5cnlqeGtkdzNmZ2R3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## 📚 Formação Acadêmica
-**Redes de Computadores**
-**Sistemas Embarcados**
-*IFRN* (Cursando)  
+**Redes de Computadores **
+**| Sistemas Embarcados**
+*- IFRN* (Cursando)  
 - Destaque para projetos acadêmicos em desenvolvimento web e banco de dados    
 - Cursos complementares em Shell Script e Linux pela [RedHat]
 
