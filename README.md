@@ -33,7 +33,7 @@
 - Implementação de CRUD para gestão de dados  
 - Arquitetura modular e documentação técnica
 
-[![Repo Template](https://github-readme-stats.vercel.app/api/pin/?username=halipe23&repo=projeto-faculdade&theme=radical)](https://github.com/halipe23/Asa-web)
+[![Repo Template](https://github-readme-stats.vercel.app/api/pin/?username=halipe23&repo=EmbarcaTECH&theme=radical)](https://github.com/halipe23/EmbarcaTECH.git)
 **Projeto em Andamento**  
 - Desenvolvimento de [breve descrição do projeto]  
 - Stack tecnológica: Python + Shell Script  
