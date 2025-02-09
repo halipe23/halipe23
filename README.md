@@ -14,7 +14,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
 ## 📈 GitHub Stats
-[![Seus GitHub Stats](https://readme-stats.vercel.app/api?username=halipe23&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Seus GitHub Stats](https://readme-stats.vercel.app/api?username=halipe23&show_icons=true&theme=radical)](https://github.com/anuraghazra/halipe23)
 [![Seus Estatísticas](https://github-readme-stats.vercel.app/api?username=halipe23&show_icons=true&theme=radical)](https://github.com/halipe23)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=halipe23&layout=compact&theme=radical)](https://github.com/halipe23)
 
