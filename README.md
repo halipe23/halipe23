@@ -8,7 +8,7 @@
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1reDBjOTUyeTRreHBnOXo5a25zN2Vmdmt5cnlqeGtkdzNmZ2R3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
 ## 📚 Formação Acadêmica
-**Redes de Computadores **
+**Redes de Computadores**
 **| Sistemas Embarcados**
 *- IFRN* (Cursando)  
 - Destaque para projetos acadêmicos em desenvolvimento web e banco de dados    
