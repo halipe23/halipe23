@@ -27,7 +27,7 @@
 
 ## 🚀 Projetos Destacados
 
-[![Projeto Faculdade](https://github-readme-stats.vercel.app/api/pin/?username=halipe23&repo=Projeto-Faculdade&theme=radical)](https://github.com/halipe23/Asa-web)
+[![Projeto Faculdade](https://github-readme-stats.vercel.app/api/pin/?username=halipe23&repo=Projeto-Faculdade&theme=radical)](https://github.com/halipe23/asa-web.git)
 **Sistema Acadêmico**  
 - Desenvolvimento de sistema completo com Python e MySQL  
 - Implementação de CRUD para gestão de dados  
