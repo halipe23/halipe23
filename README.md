@@ -1,10 +1,10 @@
-# Hi there, I'm Halisson! 👋
+# Hi there, I'm Hall! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halisson-santos-aa4b09289/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
 
-📚 Estudante de Análise e Desenvolvimento de Sistemas | 🚀 Apaixonado por programação e inovação
+📚 Estudante de Redes de Computadores | 🚀 Progrmação e Cybersecurity
 
 ## 🛠 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
