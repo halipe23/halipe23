@@ -1,9 +1,8 @@
-# Olá, seja bem-vindo(a) ao meu GitHub! 👋
+# Eae mano(a) esse é meu GitHub! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-barreto-reds/)
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=halipe23.halipe23)
 
-**Meu nome é Hall** e sou um **Estudante de Redes de Computadores** Interessado em Programação e CyberSecurity. Estou construindo minha base técnica através de projetos práticos e estudos constantes, buscando integrar conhecimento teórico com aplicações reais.
+**Pode me chamar de Boto** e sou um **Estudante de Redes de Computadores** Interessado em Programação e CyberSecurity. Estou construindo minha base técnica através de projetos práticos e estudos constantes, buscando integrar conhecimento teórico com aplicações reais.
 
 ![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1reDBjOTUyeTRreHBnOXo5a25zN2Vmdmt5cnlqeGtkdzNmZ2R3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
 
