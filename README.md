@@ -2,9 +2,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-barreto-reds/)
 
-**Pode me chamar de Boto** e sou um **Estudante de Redes de Computadores** Interessado em Programação e CyberSecurity. Estou construindo minha base técnica através de projetos práticos e estudos constantes, buscando integrar conhecimento teórico com aplicações reais.
+**Pode me chamar de B0tu** e sou um **Estudante de Redes de Computadores** Interessado em Programação e CyberSecurity. Estou construindo minha base técnica através de projetos práticos e estudos constantes, buscando integrar conhecimento teórico com aplicações reais. 
 
-![Coding](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1reDBjOTUyeTRreHBnOXo5a25zN2Vmdmt5cnlqeGtkdzNmZ2R3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif)
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTh2eHZpbDhhcWU3YjBjOGJrbHViNmg0OGd3b2g5Z3puamowdHMwMSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8qpz12HY0GXHaKPxTn/giphy.gif" alt="Coding" width="1000" height="200"/>
+
 
 ## 📚 Formação Acadêmica
 **Redes de Computadores**
@@ -20,7 +21,7 @@
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 **Tecnologias:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
@@ -28,15 +29,15 @@
 
 [![Projeto Faculdade](https://github-readme-stats.vercel.app/api/pin/?username=halipe23&repo=Asa-web&theme=radical)](https://github.com/halipe23/asa-web.git)
 **Sistema Acadêmico**  
-- Desenvolvimento de sistema completo com Python e MySQL  
-- Implementação de CRUD para gestão de dados  
-- Arquitetura modular e documentação técnica
+- Desenvolvimento de uma Infraestrutura como código simulando os serviços de um provedor.
+- Stack tecnológica: Docker 
+- Principais funcionalidades: Simular os serviços de um provedor.
 
 [![Repo Template](https://github-readme-stats.vercel.app/api/pin/?username=halipe23&repo=EmbarcaTECH&theme=radical)](https://github.com/halipe23/EmbarcaTECH.git)
 **Projeto em Andamento**  
-- Desenvolvimento de [breve descrição do projeto]  
-- Stack tecnológica: Python + Shell Script  
-- Principais funcionalidades: [lista resumida]
+- Desenvolvimento de sistemas embarcados na placa BitDogLab  
+- Stack tecnológica: Linguagem C  
+- Principais funcionalidades: Serviços IoT
 
 ## 📈 Estatísticas do GitHub
 
@@ -51,6 +52,8 @@
 **Agradeço pela visita!** Estou sempre aberto a:  
 - 💡 Discussões sobre tecnologia  
 - 🤝 Oportunidades de colaboração  
-- 📚 Compartilhamento de conhecimento  
+- 📚 Compartilhamento de conhecimento
 
-Vamos construir algo incrível juntos! 🚀
+É isso! Vlw!
+
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzJjcXh1dWJ2eGF5eHZneHZwOTlnMHkyMnE4NnZ3NG84eTh4N202dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vd8V1PpBe1Jr3SNP1d/giphy.gif" alt="Coding" width="1000" height="200"/>
